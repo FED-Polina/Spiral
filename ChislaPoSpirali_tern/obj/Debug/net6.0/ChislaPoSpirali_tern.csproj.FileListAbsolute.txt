@@ -1,0 +1,15 @@
+C:\Users\FEDPo\Documents\ChislaPoSpirali_tern\ChislaPoSpirali_tern\bin\Debug\net6.0\ChislaPoSpirali_tern.exe
+C:\Users\FEDPo\Documents\ChislaPoSpirali_tern\ChislaPoSpirali_tern\bin\Debug\net6.0\ChislaPoSpirali_tern.deps.json
+C:\Users\FEDPo\Documents\ChislaPoSpirali_tern\ChislaPoSpirali_tern\bin\Debug\net6.0\ChislaPoSpirali_tern.runtimeconfig.json
+C:\Users\FEDPo\Documents\ChislaPoSpirali_tern\ChislaPoSpirali_tern\bin\Debug\net6.0\ChislaPoSpirali_tern.dll
+C:\Users\FEDPo\Documents\ChislaPoSpirali_tern\ChislaPoSpirali_tern\bin\Debug\net6.0\ChislaPoSpirali_tern.pdb
+C:\Users\FEDPo\Documents\ChislaPoSpirali_tern\ChislaPoSpirali_tern\obj\Debug\net6.0\ChislaPoSpirali_tern.csproj.AssemblyReference.cache
+C:\Users\FEDPo\Documents\ChislaPoSpirali_tern\ChislaPoSpirali_tern\obj\Debug\net6.0\ChislaPoSpirali_tern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FEDPo\Documents\ChislaPoSpirali_tern\ChislaPoSpirali_tern\obj\Debug\net6.0\ChislaPoSpirali_tern.AssemblyInfoInputs.cache
+C:\Users\FEDPo\Documents\ChislaPoSpirali_tern\ChislaPoSpirali_tern\obj\Debug\net6.0\ChislaPoSpirali_tern.AssemblyInfo.cs
+C:\Users\FEDPo\Documents\ChislaPoSpirali_tern\ChislaPoSpirali_tern\obj\Debug\net6.0\ChislaPoSpirali_tern.csproj.CoreCompileInputs.cache
+C:\Users\FEDPo\Documents\ChislaPoSpirali_tern\ChislaPoSpirali_tern\obj\Debug\net6.0\ChislaPoSpirali_tern.dll
+C:\Users\FEDPo\Documents\ChislaPoSpirali_tern\ChislaPoSpirali_tern\obj\Debug\net6.0\refint\ChislaPoSpirali_tern.dll
+C:\Users\FEDPo\Documents\ChislaPoSpirali_tern\ChislaPoSpirali_tern\obj\Debug\net6.0\ChislaPoSpirali_tern.pdb
+C:\Users\FEDPo\Documents\ChislaPoSpirali_tern\ChislaPoSpirali_tern\obj\Debug\net6.0\ChislaPoSpirali_tern.genruntimeconfig.cache
+C:\Users\FEDPo\Documents\ChislaPoSpirali_tern\ChislaPoSpirali_tern\obj\Debug\net6.0\ref\ChislaPoSpirali_tern.dll
